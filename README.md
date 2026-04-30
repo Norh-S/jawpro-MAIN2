@@ -120,7 +120,7 @@ Refer to `docs/test-plan.md` for detailed validation steps.
 
 ## 👥 Authors
 
-* Developed by: Reham Abdullah Al-khitabi (reham.alkhitabi@gmail.com) & Haifa Mohammed Alsulami
+* Developed by: Reham Abdullah Al-Khitabi (reham.alkhitabi@gmail.com), Haifa Mohammed Alsulami, Norh Sahel Allehyani(norhsahel@gmail.com) & Lena Saad Al-Garni
 * University: umm al qura university
 * Project: Graduation Project (Computer Science Department)
 
